@@ -1,8 +1,10 @@
 # RENTAL PROPERTY INVESTING BOOK NOTES
 
-Chapter 3
+# Chapter 3
 
-4 sources of wealth generation:
+## 4 sources of wealth generation
+
+There are 4 sources of wealth generation possible via property investment:
 
 1. Appreciation
 2. Cash-flow
